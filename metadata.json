@@ -1,0 +1,7 @@
+{
+  "name": "ISP-Core Manager",
+  "description": "A high-performance billing and network management dashboard integrated with simulated FreeRADIUS and MikroTik API capabilities for ISPs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
